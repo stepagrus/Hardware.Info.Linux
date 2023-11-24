@@ -2,9 +2,9 @@
 
 This fork of https://github.com/Jinjinov/Hardware.Info/
 
-# Hardware.Info.Linux
+# Hardware.Info.LinuxAndMac
 
-Only Linux operating system is supported!
+Only Linux and macOS operating system is supported!
 
 Battery, BIOS, CPU - processor, storage drive, keyboard, RAM - memory, monitor, motherboard, mouse, NIC - network adapter, printer, sound card - audio card, graphics card - video card. Hardware.Info is a .NET 5+ library and /dev, /proc, /sys on Linux.
 
