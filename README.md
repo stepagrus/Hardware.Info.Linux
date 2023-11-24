@@ -6,7 +6,7 @@ This fork of https://github.com/Jinjinov/Hardware.Info/
 
 Only Linux operating system is supported!
 
-Battery, BIOS, CPU - processor, storage drive, keyboard, RAM - memory, monitor, motherboard, mouse, NIC - network adapter, printer, sound card - audio card, graphics card - video card. Hardware.Info is a .NET Standard 2.0 library and /dev, /proc, /sys on Linux.
+Battery, BIOS, CPU - processor, storage drive, keyboard, RAM - memory, monitor, motherboard, mouse, NIC - network adapter, printer, sound card - audio card, graphics card - video card. Hardware.Info is a .NET 5+ library and /dev, /proc, /sys on Linux.
 
 ## How to use:
 
